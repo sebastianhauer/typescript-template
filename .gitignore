@@ -1,0 +1,41 @@
+# Dependency directories
+node_modules/
+
+# Build outputs
+dist/
+
+# Environment variables
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Output of 'npm pack'
+*.tgz
+
+# IDE specific files
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
